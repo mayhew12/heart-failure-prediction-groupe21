@@ -6,7 +6,7 @@ import sys
 
 # Add the correct path to find train_model.py
 sys.path.append('src')
-from train_model1 import train_and_select_best_model
+from train_model import train_and_select_best_model
 
 # ─────────────────────────────────────
 # PAGE DESIGN
